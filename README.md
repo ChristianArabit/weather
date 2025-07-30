@@ -1,5 +1,6 @@
 System Requirements:
-- Installed: Java SE Development Kit 21.0.8
+- JDK: Java SE Development Kit 21.0.8
+- IDE: VSCode, Eclipse, or IntelliJ(Recommended)
 
 Initial setup
 1. Download zip file
@@ -27,7 +28,7 @@ Run Application: Through Eclipse
 7. Right-click "weather"
 8. Click Maven > Update Project > OK
 9. Navigate to src/main/java > com.cvarabit.weather > WeatherApplication.java
-10. Right-click within the file > Run as > Java Application
+10. Right-click within the file > Run As > Java Application
 
 The Spring Boot application should be running.
 
